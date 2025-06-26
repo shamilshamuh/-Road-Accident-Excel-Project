@@ -8,7 +8,7 @@ I built an interactive Road Accident Dashboard using Microsoft Excel to analyze 
 3. **Casualty breakdown by vehicle type, road type, road surface, and light condition.**
 4. **Monthly trend line charts comparing current vs previous year.**
 5. **Clean, dark-themed visual layout with slicers and charts.**
-6. 
+
 # 🧩 Problem Statement
 Despite numerous safety measures, road accidents continue to cause a high number of casualties every year. Government agencies and road safety authorities need actionable insights to identify risk factors and reduce accident rates. However, raw data alone doesn't provide a clear picture of where and why these accidents occur.
 # Dataset
@@ -24,7 +24,7 @@ https://github.com/shamilshamuh/-Road-Accident-Excel-Project/blob/main/Dashboard
  # Detailed Report
 **📊 Key Insights:**
 
-**🚗 Cars caused 79.8% of total casualties.**
+-- **🚗 Cars caused 79.8% of total casualties.**
 **💀 Fatalities: 7,135 (1.7%) | Serious: 59,312 (14.2%) | Slight: 351,435 (84.1%).**
 **🛣️ Highest casualties occurred on Single carriageways (~310K).**
 **☀️ Daylight conditions saw nearly 73% of total incidents.**
