@@ -11,3 +11,5 @@ I built an interactive Road Accident Dashboard using Microsoft Excel to analyze 
 Despite numerous safety measures, road accidents continue to cause a high number of casualties every year. Government agencies and road safety authorities need actionable insights to identify risk factors and reduce accident rates. However, raw data alone doesn't provide a clear picture of where and why these accidents occur.
 # Dataset
 https://github.com/shamilshamuh/-Road-Accident-Excel-Project/blob/main/Road%20Accident%20Data.zip
+# Data Analysis
+https://github.com/shamilshamuh/-Road-Accident-Excel-Project/blob/main/Analysis%20sheet%20road%20accident.png
