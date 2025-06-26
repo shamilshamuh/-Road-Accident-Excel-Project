@@ -24,12 +24,12 @@ https://github.com/shamilshamuh/-Road-Accident-Excel-Project/blob/main/Dashboard
  # Detailed Report
 **📊 Key Insights:**
 
--- **🚗 Cars caused 79.8% of total casualties.**
-**💀 Fatalities: 7,135 (1.7%) | Serious: 59,312 (14.2%) | Slight: 351,435 (84.1%).**
-**🛣️ Highest casualties occurred on Single carriageways (~310K).**
-**☀️ Daylight conditions saw nearly 73% of total incidents.**
-**📍 Urban areas recorded 255.9K casualties, higher than rural areas.**
-**📅 Monthly trends compared across 2021 & 2022 for better decision-making.**
+1. **🚗 Cars caused 79.8% of total casualties.**
+2. **💀 Fatalities: 7,135 (1.7%) | Serious: 59,312 (14.2%) | Slight: 351,435 (84.1%).**
+3. **🛣️ Highest casualties occurred on Single carriageways (~310K).**
+4. **☀️ Daylight conditions saw nearly 73% of total incidents.**
+5. **📍 Urban areas recorded 255.9K casualties, higher than rural areas.**
+6. **📅 Monthly trends compared across 2021 & 2022 for better decision-making.**
 
 # ✅ Conclusion
 This Road Accident Dashboard project provided valuable hands-on experience in analyzing real-world data using Microsoft Excel. By transforming raw accident data into an interactive, visually engaging dashboard, I was able to uncover key insights such as the high percentage of casualties caused by cars, the dominance of accidents on single carriageways, and the impact of daylight and urban areas on accident rates.
